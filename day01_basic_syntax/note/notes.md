@@ -1,3 +1,4 @@
+Bài 1: Python là gì và cách chạy chương trình đầu tiên
 1. Python là gì?
 Python là một ngôn ngữ lập trình:
 
